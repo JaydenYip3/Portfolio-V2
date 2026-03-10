@@ -1,6 +1,6 @@
 # Portfolio
 
-This is a personal portfolio web app built with Next.js, React, TypeScript, and Tailwind CSS.
+This is a personal portfolio web app.
 
 Right now it is an early scaffold (the home page is currently empty), and this repository is the foundation for building out sections like projects, about, contact, and resume.
 
